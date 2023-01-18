@@ -1,3 +1,5 @@
+# This is for invisiable players in mlos, did this for gabz maps mainly
+
 # How To Setup:
 
 - After download this interproxies_creator https://github.com/thisneq/interiorproxies_creator/releases/tag/Latest
